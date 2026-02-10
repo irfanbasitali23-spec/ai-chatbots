@@ -264,9 +264,3 @@ ai-chatbot-appointment/
             └── Appointments.jsx
 ```
 
-## Submission Details
-
-See the prepared submission draft: submission.md
-
-Instructions: copy the contents of `submission.md` into a Google Doc, add your name and email on the first page (already included), set the doc share settings to "Anyone with the link" (Viewer), and submit the shareable link to the required submission URL.
-
